@@ -3,10 +3,10 @@
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
 - Name: Heather Chan 
-- Github username: usrname
-- Email: address [at] email.com
-- Lab section: 101
-- GSI: Leia Organa
+- Github username: hchan06
+- Email: hchan20@berkeley.edu
+- Lab section: 109
+- GSI: Miyabi Ishihara
 
 -----
 
